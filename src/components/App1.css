@@ -1,0 +1,21 @@
+.avatar{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    padding:50px;
+}
+h1{
+    background-color: black;
+    color:white;
+    font-size: large;
+    width:125px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn234{
+    width:150px;
+}
+.btn2341{
+    background-color: black;
+}
